@@ -62,7 +62,7 @@ ud.modifyCheck('check_token', null, 300).then(function(modifiedCheck) {
 #### deleteCheck (token)
 Deletes a check
 ```javascript
-// Change a check to 5 minute interval
+// Deletes a check
 ud.deleteCheck('check_token').then(function(response) {
     console.log(response.deleted);
 });
