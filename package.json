@@ -28,7 +28,7 @@
   "license": "MIT",
   "dependencies": {
     "moment": "2.11.x",
-    "request": "2.67.x"
+    "request": "2.88.x"
   },
   "devDependencies": {
     "gulp": "3.9.x",
